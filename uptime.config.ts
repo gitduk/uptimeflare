@@ -18,9 +18,11 @@ const workerConfig = {
   monitors: [
     {
       id: 'blog',
-      name: ' Blog',
+      name: 'wukaige's blog',
       method: 'GET',
-      target: 'https://blog.wukaige.com/',
+      target: 'https://notion-next-wukaiges-projects.vercel.app/',
+      tooltip: 'https://blog.wukaige.com/',
+      statusPageLink: 'https://blog.wukaige.com/',
     },
   ],
   notification: {
