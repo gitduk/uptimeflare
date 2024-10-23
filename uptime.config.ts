@@ -30,6 +30,13 @@ const workerConfig = {
       target: 'https://myraw.pages.dev/',
       statusPageLink: 'https://myraw.pages.dev/',
     },
+    {
+      id: 'subc',
+      name: "subc",
+      method: 'GET',
+      target: 'https://edgetunnel-2d4.pages.dev/',
+      statusPageLink: 'https://subc.wukaige.com/',
+    },
   ],
   notification: {
     appriseApiServer: "https://apprise.example.com/notify",
