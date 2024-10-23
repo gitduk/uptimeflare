@@ -24,8 +24,8 @@ const workerConfig = {
       statusPageLink: 'https://blog.wukaige.com/',
     },
     {
-      id: 'raw',
-      name: "raw",
+      id: 'myraw',
+      name: "myraw",
       method: 'GET',
       target: 'https://myraw.pages.dev/',
       statusPageLink: 'https://myraw.pages.dev/',
