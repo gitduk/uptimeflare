@@ -28,7 +28,7 @@ const workerConfig = {
       name: "myraw",
       method: 'GET',
       target: 'https://myraw.pages.dev/',
-      statusPageLink: 'https://myraw.pages.dev/',
+      statusPageLink: 'https://raw.wukaige.com/',
     },
     {
       id: 'subc',
